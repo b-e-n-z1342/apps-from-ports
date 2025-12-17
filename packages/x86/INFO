@@ -1,0 +1,18 @@
+#	INFO-FILE
+#	REPO
+#	X86
+
+
+section wine 
+	name=" wine "
+	by="X"
+	version=" xx.xx.xx "
+	despincev=" mesa-dri lib** "
+section mesa-dri 
+	name="mesa-dri"
+	by="mesa"
+	version="xx.xx.xx"
+#
+# this is demo !
+#
+
